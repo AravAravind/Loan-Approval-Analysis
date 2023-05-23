@@ -12,5 +12,6 @@ https://www.kaggle.com/datasets/mirbektoktogaraev/should-this-loan-be-approved-o
 4. Model Development: Machine learning models, including Decision Tree and Random Forest, are built and trained on the dataset.
 5. Model Evaluation: The models are evaluated using performance metrics such as accuracy, precision, recall, and F1-score.
 6. Predictions: The trained models are used to predict the loan approval status on unseen data.
+
 [Click here to view my project](https://aravaravind.github.io/Loan-Approval-Analysis/)
 
